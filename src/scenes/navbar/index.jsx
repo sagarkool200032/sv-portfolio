@@ -47,7 +47,7 @@ const index = (props) => {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                  href="#"
+                  href="https://drive.google.com/file/d/1Q3v1byaRSpTRpFCyoeI-Hg4QoT5WL_0o/view?usp=sharing"
                 >
                   Resume
                 </a>
