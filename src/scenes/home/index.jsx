@@ -21,7 +21,7 @@ const index = () => {
             Passionate Developer, Crafting Quality Designs and Code!
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 mb-5 text-gray-600 dark:text-gray-400">
-              <a target="_blank" href="https://github.com/sagarkool200032"><AiOutlineGithub /></a>
+              <a target="_blank" href="https://github.com/sv2000-sagar"><AiOutlineGithub /></a>
               <a target="_blank" href="https://in.linkedin.com/in/sagar-verma-200032"><AiFillLinkedin /></a>
             </div>
             <motion.div
